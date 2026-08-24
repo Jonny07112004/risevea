@@ -238,7 +238,7 @@ In the worst case, all characters could be opening brackets and therefore stored
 
 For example:
 
-**`{{{{{{{{`**
+**<!-- `{{{{{{{{` -->**
 
 All of them would remain inside the Stack.
 
